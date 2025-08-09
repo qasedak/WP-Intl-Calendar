@@ -3,7 +3,7 @@
  * Plugin Name: WP Intl Calendar
  * Plugin URI: https://github.com/qasedak/WP-Intl-Calender/
  * Description: Converts WordPress dates and times to all other calendars available in JS Intl method
- * Version: 1.0.9
+ * Version: 1.0.9-beta
  * Requires at least: 5.0
  * Requires PHP: 7.2
  * Author: Mohammad Anbarestany

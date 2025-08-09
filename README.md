@@ -35,6 +35,9 @@ WP Intl Calendar is a WordPress plugin that allows you to display dates and time
 
 ## Changelog
 
+### 1.0.9 Beta
+- Better date conversion at Wordpress dashbord (WP Classic)
+
 ### 1.0.8 Beta
 - Dynamic date conversion: Improved handling of dynamically loaded content like AJAX responses and JavaScript insertions.
 - Changed versioning style from vX.XX to vX.X.X
